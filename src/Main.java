@@ -1,5 +1,3 @@
-import static java.lang.String.format;
-
 public class Main {
 
     public static void main(String[] args) {
